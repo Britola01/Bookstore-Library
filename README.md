@@ -8,7 +8,7 @@ The Dart script is a project related to storing Books, Authors, and Customers in
 
 Here are some links demonstrating the script's functionality.
 
-- [Youtube: The WebApp working](([https://youtu.be/6OXMSDclz8g]))
+- [Youtube: The WebApp working]( https://youtu.be/6OXMSDclz8g )
 - [Clone:](git clone https://github.com/Britola01/Bookstore-Library.git)
 
 

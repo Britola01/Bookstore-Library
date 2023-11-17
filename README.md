@@ -14,4 +14,4 @@ Here are some links demonstrating the script's functionality.
 
 For any questions, please contact me by email.
 
-- [E-mail](pedrolucasm9@gmail.com)
+- [E-mail]= (pedrolucasm9@gmail.com)

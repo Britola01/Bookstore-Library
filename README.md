@@ -1,6 +1,6 @@
 # BookStore Library
 
-A new Flutter project.
+Bookstore Flutter Project
 
 ## Getting Started
 

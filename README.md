@@ -1,16 +1,17 @@
-# flutter_application_1
+# BookStore Library
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The Dart script is a project related to storing Books, Authors, and Customers in a common Bookstore. The project is being stored in a Firebase database.
 
-A few resources to get you started if this is your first Flutter project:
+Here are some links demonstrating the script's functionality.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Youtube: The WebApp working](https://docs.flutter.dev/get-started/codelab)
+- [Clone:](git clone https://github.com/Britola01/Bookstore-Library.git)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+For any questions, please contact me by email.
+
+- [E-mail](pedrolucasm9@gmail.com)
